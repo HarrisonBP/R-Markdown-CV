@@ -1,0 +1,177 @@
+---
+title: "Curriculum Vita - Harrison B. Pugh"
+# author: "Harrison B. Pugh"
+date: "January 22, 2018"
+output: 
+  html_document:
+    toc: TRUE
+    theme: "readable"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Department of Marketing • College of Business • Florida State University
+
+Phone: (504) 383-3848 • [www.harrisonpugh.com](www.harrisonpugh.com) • [hbp04@my.fsu.edu](mailto:hbp04@my.fsu.edu)
+
+***
+
+## Education
+
+Ph.D., Marketing, Expected Completion 2019 Florida State University, Department of Marketing, College of Business
+
+B.S., Multinational Business Operations, 2006 Cum Laude, Florida State University, Department of Marketing, College of Business, Minor in Mandarin Chinese
+
+***
+
+## Honorary Appointments
+
+**Consortium Fellow**, 2017 *AMA-Sheth Foundation Doctoral Consortium*
+
+**Research Fellow**, Center for Sales and Marketing Strategy, University of Washington, Seattle, WA, 2016 – present
+
+***
+
+## Research Interest
+
+Strategy research concerning how frontline relationships impact B2B and B2C firms across the lifetime of the customer.
+
+***
+
+## Selected Research
+
+Pugh, Harrison B., Michael K. Brady, and Lucas M. Hopkins, “A Customer Scorned: Effects of Employee Reprimands in Frontline Service Encounters,” *Journal of Service Research*, accepted August 2017.
+
+Pugh, Harrison B., Colleen M. Harmeling, Michael K. Brady, Robert W. Palmatier, “Effective Win-back Window Strategies,” data collected and analyzed (includes all transactions and marketing communications to 140,000 customers of a multinational charitable organization), currently designing field study, expected submission to *Journal of Marketing* Fall 2018.
+
+***
+
+## Refereed Presentations
+
+Pugh, Harrison B., Michael K. Brady, and Lucas M. Hopkins, “A Customer Scorned: Effects of Employee Reprimands in Frontline Service Encounters,” presented at the 2016 *Frontiers in Service Conference*, Bergen, Norway.
+
+Pugh, Harrison B., Michael K. Brady, and Lucas M. Hopkins, “A Customer Scorned: Effects of Employee Reprimands in Frontline Service Encounters,” presented at the 2017 *Southeast Marketing Symposium*
+
+***
+
+## Service
+
+### Ad Hoc Reviewer
+
+*Journal of Service Research* (2017)
+
+*Journal of Marketing Management* (2017)
+
+### Conference-Related Reviewer
+
+2017 *AMS Annual Conference*
+
+2016 *AMA Marketing Educators’ Conference*, Services and Retail Marketing Track.
+
+### Session Chair
+
+2016 *Frontiers in Service Conference*, Bergen, Norway
+
+2015 *Southeast Marketing Symposium*, Tallahassee, FL. 
+
+### Committee Member
+
+2015 Dean of the College of Business Search Committee – Search Committee Member
+
+2015 Graduate Policy Committee – Review Subcommittee Student Representative
+
+***
+
+## Dissertation Committee
+
+Dr. Michael Brady (chair)
+
+Dr. Colleen Harmeling
+
+Dr. Michael Holmes (outside member)
+
+Dr. Martin Mende
+
+Dr. Rob Palmatier
+
+***
+
+## Teaching - Florida State University
+
+### Lecturer
+
+**Basic Marketing Concepts** (summer 2015) 4.69 instructor rating, 5-point scale
+
+
+### Course Manager
+
+**Basic Marketing Concepts** (2016-present) 750+ students/semester
+
+### Guest Lecturer
+
+**Consumer Behavior** (summer 2017) 
+
+**Professional Selling** (spring 2017, fall 2017)
+
+**Advanced Selling** (spring 2017)
+
+**Basic Marketing Concepts** (fall 2015)
+
+### Teaching Assistantships
+
+**Basic Marketing Concepts** - Online Course
+
+Dr. Michael Brady (fall 2014-present, enrollment between 750 and 950 students/semester)
+
+**Basic Marketing Concepts** - On-campus Course
+
+Dr. Michael Brady (fall 2014, approximately 300 students)
+
+Dr. Lucas Hopkins (spring 2015, approximately 300 students)
+
+**Marketing Strategy in the Global Environment**
+
+Dr. Leff Bonney (summer 2017)
+
+***
+
+## Academic and Professional Associations
+
+*Let’s Talk About Service (LTAS)* 2017 Conference Invitee and Presenter
+
+Center for Service Leadership 2017 Annual Meeting Invitee
+
+Institute for Study of Business Markets *Ph.D. Seminar Series and Camp* (2016)
+
+American Marketing Association (Service SIG)
+
+Beta Gamma Sigma Honor Society
+
+***
+
+## Awards and Recognition
+
+2016 (Spring) ISBM Ph.D. Seminar Series Scholarship
+
+***
+
+## Industry Employment History
+
+More than 15 years of sales and frontline service management experience in hospitality and technology industries. 
+
+***
+
+## Selected Abstracts
+
+Pugh, Harrison B., Michael K. Brady, and Lucas M. Hopkins, “A Customer Scorned: Effects of Employee Reprimands in Frontline Service Encounters,” *Journal of Service Research*, accepted August 2017.
+
+*This research examines the implications of manager reprimands of frontline employees following a service failure incident. Drawing upon social exchange theory and looking at both customer and employee reactions, three studies find that customers are more satisfied with failed service encounters when they are aware the employee was reprimanded. This effect is mediated by deontic justice perceptions and moderated by the customer’s just world beliefs, such that high believers are more satisfied than low believers when they are told about an employee’s reprimand. Direct observation of the reprimand acts as a key boundary condition whereby customers become dissatisfied when they are present during the reprimand. Furthermore, we find that customer perceptions of frontline reprimands are tied to reprimand privacy whereas employee perceptions are tied to reprimand civility. This research is the first to simultaneously examine the effects of workplace reprimands on customer and frontline employee satisfaction. For managers, our findings illuminate the usefulness of communicating employee reprimands to customers, thus representing a low-cost alternative to other types of recovery efforts.*
+
+Pugh, Harrison B., Colleen M. Harmeling, Michael K. Brady, “Effective Win-back Window Strategies,” data collected and analyzed (includes all transactions and marketing communications to 140,000 customers of a multinational charitable organization), currently designing field study, expected submission to *Journal of Marketing* Fall 2018.
+
+*Studies on customer win-backs generally assume that the customer has actively made the decision to leave the firm. However, this is not always the case. In fact, the firm provided data in Study 1 shows that more than 50% of the firm’s defectors do so through credit card declines and expirations, closed accounts, or not sending in their next payment. Unlike active defectors, these passive defectors have not redefined themselves as either a non-customer or a customer of a new firm, and thus, react differently to marketing communications. Analyses of firm provided data on 28,947 actual defectors are robust over five years, suggesting that win-back communications are more likely to recover active defectors, whereas cross-selling communications, expansion requests, and loyalty initiatives are more likely to recover passive defectors. Field experiments are currently underway to test these findings. For managers, our findings illuminate the need to communicate differently with customers based on whether they actively or passively defected.*
+
+***
+Note: this CV was created in R Markdown using RStudio and knitr
